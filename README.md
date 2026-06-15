@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oi Pessoal 👋
 
-<!--
-**rauanny-commits/rauanny-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-  Sou estudante 📖
+-  Gosto de filmes de terror 😨
+-  Estou aprendendo outras línguas 🇺🇲🇵🇾
+-  Gosto de viajar ✈️
+-  Gosto de fazer doces 🧁
+
+-  ![](https://media1.tenor.com/m/aAh1SQaximUAAAAC/byebye-pocahontas.gif)
+
+-  ## Entre em contato comigo:
+-  rauanny.souza@escola.pr.gov.br
